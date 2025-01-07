@@ -26,4 +26,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev13n&show_icons=true&locale=en&layout=compact" alt="dev13n" /></p>
 
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/dev13n/dev13n/blob/output/github-snake-dark.svg)
